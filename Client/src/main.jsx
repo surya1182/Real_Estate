@@ -9,7 +9,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     domain="dev-7xa28o2mcpa3c3g5.us.auth0.com"
     clientId="XLLpthKswbod7jnyeW5DJJVb9fWn9qRT"
     authorizationParams={{
-      redirect_uri:"http://localhost:5173"
+      redirect_uri:"https://real-estate-bay-five.vercel.app"
     }}
     audience="http://localhost:8000"
     scope="openid profile email"
